@@ -8,7 +8,7 @@ const Features = () => (
         <Row>
           <Col md='6' sm='12'>
             <i></i>
-            <p>White Box testing having to test ourside the box</p>
+            <p>White Box testing having to test outside the box</p>
           </Col>
           <Col md='6' sm='12'>
             <i></i>
